@@ -1,10 +1,10 @@
 # Superstition Model
 
-Note: This model is also listed in the [Netlogo Modeling Commons](http://modelingcommons.org/browse/one_model/4633#model_tabs_browse_info), which also includes a web runnable version, though that version is less polished and slower.
+Note: This model was developd in the [Netlogo Modeling Commons](http://modelingcommons.org/browse/one_model/4633#model_tabs_browse_info), so most development history is visible there. It also includes a web runnable version, though that version is less polished and slower.
 
 ## Introduction
 
-This is a model written in NetLogo to demonstrate and analyze the growth of a superstition in society. It explores what factors can lead a community to be more or less superstitious overall. This is accomplished by creating an environment in which there is a chance of coincidences, and by having netlogo turtles respond to those coincidences by either treating them as coincidences or by "believing" that there is a causal relationship.
+This is a model written in NetLogo for EECS 372 at Northwestern, a course on agent-based modeling. It is meant to demonstrate and analyze the growth of a superstition in society. It explores what factors can lead a community to be more or less superstitious overall. This is accomplished by creating an environment in which there is a chance of coincidences, and by having netlogo turtles respond to those coincidences by either treating them as coincidences or by "believing" that there is a causal relationship.
 
 ## What's here?
 This repo contains the model, which can be run in [NetLogo](https://ccl.northwestern.edu/netlogo/), along with the full report on the model in pdf form, and the poster used in the poster fair, also in pdf form. 
